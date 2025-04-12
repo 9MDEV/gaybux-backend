@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'robux' => [
+        'rate' => env('ROBUX_RATE'),
+    ],
+
 ];
